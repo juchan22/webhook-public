@@ -1,2 +1,2 @@
 # webhook-public
-Jenkins 웹훅 작동 확인
+Jenkins 웹훅 작동 확인 변경
